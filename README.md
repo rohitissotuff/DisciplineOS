@@ -2,6 +2,8 @@
 
 **Discipline OS** is an offline Android app that scores your day from **0 to 100** based on what you actually did.
 
+Note: This project was primarily generated with AI assistance and is kept as an experiment/reference project. It does not represent my independent development skills.
+
 No accounts. No cloud. No distractions.  
 Just your actions, your score, and your consistency.
 
